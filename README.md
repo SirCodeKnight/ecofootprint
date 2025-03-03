@@ -13,20 +13,19 @@ EcoFootprint is a Python module that helps you calculate and analyze your carbon
 
 ## Installation
 
- Option 1: Using pip 
+ ## Option 1: Using pip 
 
+# pip install ecofootprint
+
+
+## Option 2: Manual Installation
+
+
+
+# bash
 pip install ecofootprint
 
-
-Option 2: Manual Installation
-
-Clone the repository and install:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ecofootprint.git
 cd ecofootprint
-pip install .
+
 
 
